@@ -7,9 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a60c24-9fc6-480a-a529-b09e7bdd81e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/LoginSuccess.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Login_From.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Login_From.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Login_From/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/Login_From/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="190" />
+    <option name="myElementSize" value="185" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +56,7 @@
       <recent name="com.bridgelabz" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Blackhawkkk1\IdeaProjects\Login_From\target" />
       <recent name="C:\Users\Blackhawkkk1\IdeaProjects\Login_From\src\main\webapp" />
       <recent name="C:\Users\Blackhawkkk1\IdeaProjects\Login_From\src\main\webapp\WEB-INF" />
     </key>
@@ -209,7 +211,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -228,7 +230,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590386129600</updated>
-      <workItem from="1590386133877" duration="3377000" />
+      <workItem from="1590386133877" duration="4793000" />
     </task>
     <servers />
   </component>
@@ -248,56 +250,56 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590387258222" />
-    <state width="904" height="174" key="GridCell.Tab.0.bottom" timestamp="1590389297501">
+    <state width="904" height="174" key="GridCell.Tab.0.bottom" timestamp="1590391575769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590389297501" />
-    <state width="904" height="174" key="GridCell.Tab.0.center" timestamp="1590389297501">
+    <state width="904" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590391575769" />
+    <state width="904" height="174" key="GridCell.Tab.0.center" timestamp="1590391575769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590389297501" />
-    <state width="904" height="174" key="GridCell.Tab.0.left" timestamp="1590389297501">
+    <state width="904" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590391575769" />
+    <state width="904" height="174" key="GridCell.Tab.0.left" timestamp="1590391575768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590389297501" />
-    <state width="904" height="174" key="GridCell.Tab.0.right" timestamp="1590389297501">
+    <state width="904" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590391575768" />
+    <state width="904" height="174" key="GridCell.Tab.0.right" timestamp="1590391575769">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590389297501" />
-    <state width="904" height="174" key="GridCell.Tab.1.bottom" timestamp="1590389297502">
+    <state width="904" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590391575769" />
+    <state width="904" height="174" key="GridCell.Tab.1.bottom" timestamp="1590391575505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590389297502" />
-    <state width="904" height="174" key="GridCell.Tab.1.center" timestamp="1590389297502">
+    <state width="904" height="174" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590391575505" />
+    <state width="904" height="174" key="GridCell.Tab.1.center" timestamp="1590391575505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590389297502" />
-    <state width="904" height="174" key="GridCell.Tab.1.left" timestamp="1590389297502">
+    <state width="904" height="174" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590391575505" />
+    <state width="904" height="174" key="GridCell.Tab.1.left" timestamp="1590391575505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590389297502" />
-    <state width="904" height="174" key="GridCell.Tab.1.right" timestamp="1590389297502">
+    <state width="904" height="174" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590391575505" />
+    <state width="904" height="174" key="GridCell.Tab.1.right" timestamp="1590391575505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590389297502" />
-    <state width="904" height="174" key="GridCell.Tab.2.bottom" timestamp="1590389297503">
+    <state width="904" height="174" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590391575505" />
+    <state width="904" height="174" key="GridCell.Tab.2.bottom" timestamp="1590391575506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590389297503" />
-    <state width="904" height="174" key="GridCell.Tab.2.center" timestamp="1590389297502">
+    <state width="904" height="174" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590391575506" />
+    <state width="904" height="174" key="GridCell.Tab.2.center" timestamp="1590391575506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1590389297502" />
-    <state width="904" height="174" key="GridCell.Tab.2.left" timestamp="1590389297502">
+    <state width="904" height="174" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1590391575506" />
+    <state width="904" height="174" key="GridCell.Tab.2.left" timestamp="1590391575506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1590389297502" />
-    <state width="904" height="174" key="GridCell.Tab.2.right" timestamp="1590389297503">
+    <state width="904" height="174" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1590391575506" />
+    <state width="904" height="174" key="GridCell.Tab.2.right" timestamp="1590391575506">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="904" height="174" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1590389297503" />
+    <state width="904" height="174" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1590391575506" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Login_From$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1590389269986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Login_From$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1590391579591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
