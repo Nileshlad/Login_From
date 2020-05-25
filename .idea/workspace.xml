@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63a60c24-9fc6-480a-a529-b09e7bdd81e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/LoginSuccess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bridgelabz/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bridgelabz/LoginServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +18,13 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="190" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,13 +48,14 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bridgelabz" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Blackhawkkk1\IdeaProjects\Login_From\src\main\webapp" />
       <recent name="C:\Users\Blackhawkkk1\IdeaProjects\Login_From\src\main\webapp\WEB-INF" />
     </key>
   </component>
@@ -218,7 +228,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590386129600</updated>
-      <workItem from="1590386133877" duration="2969000" />
+      <workItem from="1590386133877" duration="3377000" />
     </task>
     <servers />
   </component>
